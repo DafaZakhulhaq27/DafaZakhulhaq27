@@ -1,4 +1,4 @@
-<!-- <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ragil000.github.io/rmy-portfolio-reactjs/">Mohamad Dafa Zakhulhaq Fachrudin</a></b></samp></h3>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://ragil000.github.io/rmy-portfolio-reactjs/">Mohamad Dafa Zakhulhaq Fachrudin</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 a Software Engineer 」<br>
@@ -15,11 +15,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DafaZakhulhaq27&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=52057b"></img>
 </p>
 <br>
-<!-- <samp>
-  <p align="center">
-    Its fine even if you start with bad codes, keep coding.
-    <br>
-    From <a href="https://github.com/ragil000/ragil000">ragil000</a>
-  </p>
-</samp> -->
- -->
+
