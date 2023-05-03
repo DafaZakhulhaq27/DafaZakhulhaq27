@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafazakhulhaq27&label=Profile%20views&color=0e75b6&style=flat" alt="dafazakhulhaq27" /> </p>
 
-- 🔭 I’m currently working on [Lifepack.id](https://lifepack.id/)
-
-- 👨‍💻 All of my projects are available at [https://dafazakhulhaq.tech/](https://dafazakhulhaq.tech/)
-
 - 💬 Ask me about **ReactJS,React Native, NextJS and Flutter**
 
 - 📫 How to reach me **dafa27890@gmail.com**
