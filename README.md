@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm <b>Mohamad Dafa Zakhulhaq Fachrudin</b> from <b>Indonesia</b><br><br>- 🔭 I’m working as <b> Front End Engineer </b><br>- 📚 I'm currently learning <b> Machine Learning </b><br>- ⚡ In my free time I like to learn new things</p>
+<p align="left">I'm <b>Mohamad Dafa Zakhulhaq Fachrudin</b> from <b>Indonesia</b><br><br>- 🔭 I’m working as <b> Front End Engineer </b></p>
 
 ###
 
