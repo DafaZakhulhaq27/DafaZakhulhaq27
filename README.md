@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm <b>Mohamad Dafa Zakhulhaq Fachrudin</b> from <b>Indonesia</b><br><br>- 🔭 I’m working as <b> Front End Engineer </b></p>
+<p align="left">I'm <b>Mohamad Dafa Zakhulhaq Fachrudin</b> working as  <b>Front End Engineer</p>
 
 ###
 
