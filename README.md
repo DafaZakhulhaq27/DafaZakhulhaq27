@@ -24,7 +24,6 @@
 <h3 align="left"> 👨‍💻 About Me</h3>
 
 ###
-<a href="https://app.daily.dev/dafazakhulhaq"><img src="https://api.daily.dev/devcards/51b27c72117a441987c6791cc3564576.png?r=vto" width="200" alt="Dafa Zakhulhaq's Dev Card"/></a>  
 
 <p align="left">I'm <b>Mohamad Dafa Zakhulhaq Fachrudin</b> working as  <b>Front End Engineer</p>
 
